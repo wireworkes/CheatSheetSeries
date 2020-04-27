@@ -122,6 +122,8 @@
 
 [Pinning Cheat Sheet](cheatsheets/Pinning_Cheat_Sheet.md).
 
+[File Upload Cheat Sheet](cheatsheets/File_Upload_Cheat_Sheet.md). ![Java](assets/Index_Java.png) 
+
 # Q
 
 [Query Parameterization Cheat Sheet](cheatsheets/Query_Parameterization_Cheat_Sheet.md). ![Java](assets/Index_Java.png) ![Csharp](assets/Index_Csharp.png) ![Ruby](assets/Index_Ruby.png) ![Php](assets/Index_Php.png) ![Sql](assets/Index_Sql.png) ![Coldfusion](assets/Index_Coldfusion.png) ![Perl](assets/Index_Perl.png) 
